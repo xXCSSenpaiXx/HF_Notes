@@ -13,13 +13,26 @@
     - clear screen and variables / values
 - **clc**
     - only clear screen
+- **result lenght**
+    - format long
+    - format short
 
 ## Files
 - **save**
     - save .mat file
-    - save filename.mat
+    - save filename
+    - save filename variable - only save defined variable
 - **load**
     - load .mat file
-    - load filename.mat
+    - load filename
+    - load filename variable - only load defined variable
 - **Text**
     - Lorem ipsum balblabla
+
+## Math Functions
+- **π**
+    - pi
+- **sine**
+    - sin()
+- **square root**
+    - sqrt()
