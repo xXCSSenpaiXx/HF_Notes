@@ -19,9 +19,19 @@
         - x = 0    0.250    0.500    0.750    1.000     
 - **rand**
     - create random matrix
-        - rand(2)
-        - 0.126986816293506	0.546881519204984
-        - 0.913375856139019	0.957506835434298
+        - rand(2, 3)
+        - 0.126	0.546 0.234
+        - 0.913	0.957 0.542
+- **ones**
+    - create matrix of ones
+        - ones(2, 3)
+        - 1 1 1
+        - 1 1 1
+- **zeros**
+    - create matrix of zeros
+        - ones(2, 3)
+        - 0 0 0
+        - 0 0 0
 
 ## Types
 ### Scalar
