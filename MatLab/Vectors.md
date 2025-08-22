@@ -91,12 +91,20 @@ Example:
         - x(3) -> Indexing
         - 7 -> Anwser
 - **x(3:5)**
-    - Index a single value in a **vector**
+    - Index multiple values in a **vector**
         - x = [1 5 7 4 2] -> Vector
         - x(3:5) -> Indexing
         - 7 4 2 -> Anwser
-- **x(3,5)**
+- **x(2,3)**
     - Index a single value in a **matrix**
+        - x = [1 5 7; 1 4 2] -> Vector
+        - x(2,3) -> Indexing
+        - 2 -> Anwser
+- **x(end)**
+    - Index the last value
         - x = [1 5 7 4 2] -> Vector
-        - x(3:5) -> Indexing
-        - 7 4 2 -> Anwser
+        - x(end) -> Indexing
+        - 2 -> Anwser
+    - Index the second to last value
+        - x(end-1) -> Indexing
+        - 4 -> Anwser
