@@ -1,5 +1,13 @@
 # Vectors
 
+## Commands
+- **1:10**
+    - Lorem ipsum balblabla
+- **Text**
+    - Lorem ipsum balblabla
+- **Text**
+    - Lorem ipsum balblabla
+
 ## Types
 ### Scalar
 Code:
