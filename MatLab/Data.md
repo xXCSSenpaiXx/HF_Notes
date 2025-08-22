@@ -1,4 +1,4 @@
-# Vectors
+# Data
 
 ### Inhalt 
 - [Commands](#Commands)
