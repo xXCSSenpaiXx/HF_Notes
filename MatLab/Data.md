@@ -1,47 +1,8 @@
 # Data
 
 ### Inhalt 
-- [Commands](#Commands)
 - [Types](#Types)
 - [Indexing](#Indexing)
-
-## Commands
-- **1:10**
-    - Create evenly spaced vecotrs
-        - x = [1:4]
-        - 1 2 3 4
-- **1:2:10**
-    - Create with custom spaces
-        - x = [1:2:8]
-        - 1 3 5 7
-- **'**
-    - Turn a Row Verctor too a Column Vector
-        - x = 1:3 -> Row Vector
-        - x = x' -> Column Vector
-- **linspace**
-    - linspace(first,last,number_of_elements)
-        - x = linspace(0,1,5)
-        - x = 0    0.250    0.500    0.750    1.000     
-- **rand**
-    - create random matrix
-        - rand(2, 3)
-        - 0.126	0.546 0.234
-        - 0.913	0.957 0.542
-- **ones**
-    - create matrix of ones
-        - ones(2, 3)
-        - 1 1 1
-        - 1 1 1
-- **zeros**
-    - create matrix of zeros
-        - ones(2, 3)
-        - 0 0 0
-        - 0 0 0
-- **size**
-    - determin size of a matrix
-        - size(x)
-        - 6 3 -> (6 rows / 3 columns)
-
 
 ## Types
 ### Scalar
@@ -97,9 +58,13 @@ Example:
         - 7 4 2 -> Anwser
 - **x(2,3)**
     - Index a single value in a **matrix**
-        - x = [1 5 7; 1 4 2] -> Vector
+        - x = [1 5 7; 1 4 2] -> Matrix
         - x(2,3) -> Indexing
         - 2 -> Anwser
+    - Index multiple values in a **matrix**
+        - x = [1 5 7; 1 4 2; 3 4 6] -> Matrix
+        - x(:,1:2) -> Indexing
+        - 1 5, 1 4, 3 4-> Anwser
 - **x(end)**
     - Index the last value
         - x = [1 5 7 4 2] -> Vector
