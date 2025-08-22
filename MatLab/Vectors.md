@@ -3,7 +3,7 @@
 ### Inhalt 
 - [Commands](#Link)
 - [Types](#Link)
-- [Indexing](#Link)
+- [Indexing](#Indexing)
 
 ## Commands
 - **1:10**
