@@ -9,6 +9,10 @@
     - Create with custom spaces
         - x = [1:2:8]
         - 1 3 5 7
+- **'**
+    - Turn a Row Verctor too a Column Vector
+        - x = 1:3 -> Row Vector
+        - x = x' -> Column Vector
 - **linspace**
     - linspace(first,last,number_of_elements)
         - x = linspace(0,1,5)
