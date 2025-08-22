@@ -17,8 +17,11 @@
     - linspace(first,last,number_of_elements)
         - x = linspace(0,1,5)
         - x = 0    0.250    0.500    0.750    1.000     
-- **Text**
-    - Lorem ipsum balblabla
+- **rand**
+    - create random matrix
+        - rand(2)
+        - 0.126986816293506	0.546881519204984
+        - 0.913375856139019	0.957506835434298
 
 ## Types
 ### Scalar
