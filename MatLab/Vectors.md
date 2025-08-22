@@ -85,8 +85,18 @@ Example:
 | 3         | 5          | -6                     |
 
 ## Indexing
-- **x(index)**
-    - Index a value in a vector
+- **x(3)**
+    - Index a single value in a **vector**
         - x = [1 5 7 4 2] -> Vector
         - x(3) -> Indexing
         - 7 -> Anwser
+- **x(3:5)**
+    - Index a single value in a **vector**
+        - x = [1 5 7 4 2] -> Vector
+        - x(3:5) -> Indexing
+        - 7 4 2 -> Anwser
+- **x(3,5)**
+    - Index a single value in a **matrix**
+        - x = [1 5 7 4 2] -> Vector
+        - x(3:5) -> Indexing
+        - 7 4 2 -> Anwser
