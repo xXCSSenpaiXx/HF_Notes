@@ -26,13 +26,21 @@
     - load .mat file
     - load filename
     - load filename variable - only load defined variable
-- **Text**
-    - Lorem ipsum balblabla
+
 
 ## Math Functions
 - **π**
     - pi
 - **sine**
-    - sin()
+    - sin()    
 - **square root**
     - sqrt()
+
+# Data Types
+## Array
+- **matrix**
+|1|2| 
+|8|3|
+|2|-9| 
+
+
