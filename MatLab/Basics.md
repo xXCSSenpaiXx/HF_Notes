@@ -79,6 +79,8 @@
     - determin size of a matrix
         - size(x)
         - 6 3 -> (6 rows / 3 columns)
+    - split result into variables
+        - [row, column] = size(x)
 - **max**
     - find the highest value in a array
         - max(x)
