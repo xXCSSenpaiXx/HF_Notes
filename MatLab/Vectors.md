@@ -5,8 +5,10 @@
     - Create evenly spaced vecotrs
         - x = [1:4]
         - 1 2 3 4
-- **Text**
-    - Lorem ipsum balblabla
+- **1:2:10**
+    - Create evenly spaced vecotrs
+        - x = [1:4]
+        - 1 2 3 4
 - **Text**
     - Lorem ipsum balblabla
 
