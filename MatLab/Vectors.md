@@ -32,6 +32,11 @@
         - ones(2, 3)
         - 0 0 0
         - 0 0 0
+- **size**
+    - determin size of a matrix
+        - size(x)
+        - 6 3 -> (6 rows / 3 columns)
+
 
 ## Types
 ### Scalar
