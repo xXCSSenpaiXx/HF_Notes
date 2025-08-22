@@ -39,16 +39,9 @@
 # Data Types
 ## Array
 - **matrix**
-|1|2|
-|--|--| 
-|8|3|
-|2|-9|
-
-| Title        | Title         | Title                    |
+| 2        | -9         | 5                    |
 |--------------|---------------|--------------------------|
-| text         | text          | text                     |
-| text         | text          | text                     |
-| text         | text          | text                     |
-| text         | text          | text                     |
+| 4         | 23          | 11                     |
+| 3         | 5          | -6                     |
 
 
