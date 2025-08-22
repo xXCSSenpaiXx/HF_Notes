@@ -1,5 +1,10 @@
 # Vectors
 
+### Inhalt 
+- [Commands](#Link)
+- [Types](#Link)
+- [Indexing](#Link)
+
 ## Commands
 - **1:10**
     - Create evenly spaced vecotrs
@@ -78,3 +83,9 @@ Example:
 |--------------|---------------|--------------------------|
 | 4         | 23          | 11                     |
 | 3         | 5          | -6                     |
+
+## Indexing
+- **1:10**
+    - Create evenly spaced vecotrs
+        - x = [1:4]
+        - 1 2 3 4
