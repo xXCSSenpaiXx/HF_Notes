@@ -1,8 +1,8 @@
 # Vectors
 
 ### Inhalt 
-- [Commands](#Link)
-- [Types](#Link)
+- [Commands](#Commands)
+- [Types](#Types)
 - [Indexing](#Indexing)
 
 ## Commands
@@ -85,7 +85,8 @@ Example:
 | 3         | 5          | -6                     |
 
 ## Indexing
-- **1:10**
-    - Create evenly spaced vecotrs
-        - x = [1:4]
-        - 1 2 3 4
+- **x(index)**
+    - Index a value in a vector
+        - x = [1 5 7 4 2] -> Vector
+        - x(3) -> Indexing
+        - 7 -> Anwser
