@@ -1,5 +1,7 @@
-# Data Types
-## Scalar
+# Vectors
+
+## Types
+### Scalar
 Code:
 ```
     x = 2
@@ -8,7 +10,7 @@ Example:
 | 2        |
 |--------------|
 
-## Row Vector
+### Row Vector
 Code:
 ```
     x = [ 2 -9 5 ] 
@@ -17,7 +19,7 @@ Example:
 | 2        | -9         | 5                    |
 |--------------|---------------|--------------------------|
 
-## Column Vector
+### Column Vector
 Code:
 ```
     x = [ 2; 4; 3 ] 
@@ -28,7 +30,7 @@ Example:
 | 4         | 
 | 3         | 
 
-## Array
+### Array
 Code:
 ```
     x = [ 2 -9 5; 4 23 11; 3 5 -6 ] 
