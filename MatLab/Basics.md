@@ -58,7 +58,7 @@ Example:
 ## Column Vector
 Code:
 ```
-    x = [ 2; 4; 3; ] 
+    x = [ 2; 4; 3 ] 
 ```
 Example:
 | 2        |
@@ -69,7 +69,7 @@ Example:
 ## Array
 Code:
 ```
-    x = [ 2 -9 5; 4 23 11; 3 5 -6; ] 
+    x = [ 2 -9 5; 4 23 11; 3 5 -6 ] 
 ```
 Example:
 | 2        | -9         | 5                    |
