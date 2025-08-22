@@ -2,7 +2,9 @@
 
 ## Commands
 - **1:10**
-    - Lorem ipsum balblabla
+    - Create evenly spaced vecotrs
+    - x = [1:4]
+    - 1 2 3 4
 - **Text**
     - Lorem ipsum balblabla
 - **Text**
