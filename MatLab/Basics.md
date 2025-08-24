@@ -44,6 +44,9 @@
     - round()
 
 ## Data
+- **doc**
+    - Open documentation of a command
+        - doc command
 - **1:10**
     - Create evenly spaced vecotrs
         - x = [1:4]
@@ -65,6 +68,12 @@
         - rand(2, 3)
         - 0.126	0.546 0.234
         - 0.913	0.957 0.542
+- **randi**
+    - create random integer matrix
+        - randi([imin imax],[x y])
+        - randi([1 20],[2 7])
+        - 1 18 9
+        - 4 6 11
 - **ones**
     - create matrix of ones
         - ones(2, 3)
@@ -84,4 +93,14 @@
 - **max**
     - find the highest value in a array
         - max(x)
+    - split result into variables
+        - [xMax, index] = max(x)
 
+## Plots
+- **plot**
+    - Create a simple data plot
+        - plot(x,y)
+    - Format plot lines & markers
+        - plot(x,y "r--*")
+        - Red dashed line with start markers
+        - [Documentation](#https://ch.mathworks.com/help/matlab/ref/plot.html#btzitot_sep_mw_3a76f056-2882-44d7-8e73-c695c0c54ca8)
