@@ -103,4 +103,4 @@
     - Format plot lines & markers
         - plot(x,y "r--*")
         - Red dashed line with start markers
-        - [Documentation](#https://ch.mathworks.com/help/matlab/ref/plot.html#btzitot_sep_mw_3a76f056-2882-44d7-8e73-c695c0c54ca8)
+        - [Documentation](https://ch.mathworks.com/help/matlab/ref/plot.html#btzitot_sep_mw_3a76f056-2882-44d7-8e73-c695c0c54ca8)
