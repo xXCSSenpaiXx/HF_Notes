@@ -73,3 +73,10 @@ Example:
     - Index the second to last value
         - x(end-1) -> Indexing
         - 4 -> Anwser
+
+
+## Tables
+
+- **table**
+    - Safe a column / row of a table
+        - x = table.column
