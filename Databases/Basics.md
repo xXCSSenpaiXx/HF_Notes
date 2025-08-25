@@ -19,6 +19,12 @@
 3. keine inneren abhängigkeiten
 
 - **postgres sql**
-    - tool versuchen
+    - Connect:
+    - psql -h aws-1-us-east-2.pooler.supabase.com -U postgres.xqwoyqlcjfvyfnjxvxmq -p 6543 -d postgres -f ./create_database.sql
+        - -h host
+        - -U User
+        - -p Port
+        - -d method
+        - -f script file to execute
 - **Text**
     - Lorem ipsum balblabla
