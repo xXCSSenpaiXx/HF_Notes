@@ -16,9 +16,9 @@
     - 6 Formen
 1. Daten in Zeilen mit Primary Key / in einzelnen Spalten / atomare werte sind einzel
 2. Nur werte die zusammen gehören / werte in eingene tabelle verschoben
-3. keine innere abhängigkeiten
+3. keine inneren abhängigkeiten
 
-- **Text**
-    - Lorem ipsum balblabla
+- **postgres sql**
+    - tool versuchen
 - **Text**
     - Lorem ipsum balblabla
