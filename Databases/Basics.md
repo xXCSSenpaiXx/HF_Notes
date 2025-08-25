@@ -29,8 +29,11 @@
     - **\c**
         - select database
         - \c database_name
+    - **\i**
+        - run second script
+        - \i filepath
 
 
-        
+
 - **Text**
     - Lorem ipsum balblabla
