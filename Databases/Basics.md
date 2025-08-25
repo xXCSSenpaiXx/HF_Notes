@@ -26,5 +26,11 @@
         - -p Port
         - -d method
         - -f script file to execute
+    - **\c**
+        - select database
+        - \c database_name
+
+
+        
 - **Text**
     - Lorem ipsum balblabla
