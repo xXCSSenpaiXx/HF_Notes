@@ -9,6 +9,13 @@
 # Commands
 
 ## Basic
+- **Unix Befehle**
+    - cd
+    - ls
+    - pwd
+    - rm
+    - mkdir
+    - rmdir
 - **clear**
     - clear screen and variables / values
 - **clc**
@@ -95,4 +102,5 @@
         - max(x)
     - split result into variables
         - [xMax, index] = max(x)
+
 

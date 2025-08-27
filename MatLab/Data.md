@@ -34,7 +34,7 @@ Example:
 | 4         | 
 | 3         | 
 
-### Array
+### Array / Matrix
 Code:
 ```
     x = [ 2 -9 5; 4 23 11; 3 5 -6 ] 
@@ -79,4 +79,5 @@ Example:
 
 - **table**
     - Safe a column / row of a table
-        - x = table.column
+        - x = table_name.column
+        - x = table_name.row
