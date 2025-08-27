@@ -38,9 +38,9 @@
 ## Math Functions
 
 - **Matrix Mulitplication**
-    - a.*b
-- **Element-wise Mulitplcation**
     - a*b
+- **Element-wise Mulitplcation**
+    - a.*b
 - **π**
     - pi
 - **sine**
@@ -62,7 +62,7 @@
     - Create with custom spaces
         - x = [1:2:8]
         - 1 3 5 7
-- **'**
+- **' / Transpont Operator**
     - Turn a Row Verctor too a Column Vector
         - x = 1:3 -> Row Vector
         - x = x' -> Column Vector
@@ -102,5 +102,10 @@
         - max(x)
     - split result into variables
         - [xMax, index] = max(x)
+- **isvector**
+    - Check for datatype of a array
+        - isvector(x)
+        - ismatrix(x)
+        - isscalar(x)
 
 

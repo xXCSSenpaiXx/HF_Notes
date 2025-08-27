@@ -4,7 +4,7 @@
 - [Types](#Types)
 - [Indexing](#Indexing)
 
-## Types
+## Types / Array
 ### Scalar
 Code:
 ```
@@ -34,7 +34,7 @@ Example:
 | 4         | 
 | 3         | 
 
-### Array / Matrix
+### Matrix
 Code:
 ```
     x = [ 2 -9 5; 4 23 11; 3 5 -6 ] 
@@ -77,7 +77,12 @@ Example:
 
 ## Tables
 
-- **table**
-    - Safe a column / row of a table
-        - x = table_name.column
-        - x = table_name.row
+- **Extract Column**
+    - Extract a column of a table
+        - x = table_name.column_name
+- **Insert Column**
+    - Insert a column of a table
+        - table_name.column_name = x
+- **Extract Row**
+    - Extract a row of a table
+        - x = table_name(3,:)
