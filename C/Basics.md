@@ -1,6 +1,6 @@
 # C
 
-### Subtitle 
+### Inhalt 
 - [Example](#Example)
 - [Datatypes](#Datatypes)
 
