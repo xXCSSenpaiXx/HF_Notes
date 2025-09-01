@@ -1,10 +1,5 @@
 # Basics Databse
 
-### Subtitle 
-- [Name](#Link)
-- [Name](#Link)
-
-
 ---
 # Notes
 
@@ -34,5 +29,5 @@
 
 ## 01.09
 - **Skripts**
-- [Create](#../Create_script.sql)
-- [Name](#Link)
+- [Create](../Create_script.sql)
+- [Create](../Create_script.sql)
