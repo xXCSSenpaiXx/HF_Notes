@@ -34,5 +34,5 @@
 
 ## 01.09
 - **Skripts**
-- [Create](#Create_script.sql)
+- [Create](#../Create_script.sql)
 - [Name](#Link)
