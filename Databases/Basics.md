@@ -32,5 +32,9 @@
 
 
 
-- **Text**
-    - Lorem ipsum balblabla
+## 01.09
+- **Normalisiern**
+    - 6 Formen
+
+- **postgres sql**
+    - Connect:
