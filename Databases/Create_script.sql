@@ -1,3 +1,5 @@
 DROP DATABASE IF EXISTS wineshop_db;
+-- Delete the database if it already exists to avoid errors
 
 CREATE DATABASE wineshop_db;
+-- Create a new database named wineshop_db

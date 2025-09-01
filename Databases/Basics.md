@@ -34,9 +34,4 @@
 
 ## 01.09
 - **Skripts**
-Create DB
-```
-    DROP DATABASE IF EXISTS wineshop_db;
-
-    CREATE DATABASE wineshop_db;
-```
+    - Added .sql files as examples
