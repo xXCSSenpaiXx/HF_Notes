@@ -17,7 +17,7 @@
 
 - **postgres sql**
     - Connect:
-    - psql -h aws-1-us-east-2.pooler.supabase.com -U postgres.xqwoyqlcjfvyfnjxvxmq -p 6543 -d postgres -f ./create_database.sql
+    - psql -h aws-1-us-east-2.pooler.supabase.com -U postgres.xqwoyqlcjfvyfnjxvxmq -p 6543 -d postgres -f ./Create_script.sql
         - -h host
         - -U User
         - -p Port
@@ -33,8 +33,10 @@
 
 
 ## 01.09
-- **Normalisiern**
-    - 6 Formen
+- **Skripts**
+Create DB
+```
+    DROP DATABASE IF EXISTS wineshop_db;
 
-- **postgres sql**
-    - Connect:
+    CREATE DATABASE wineshop_db;
+```
