@@ -4,9 +4,6 @@
 - [Name](#Link)
 - [Name](#Link)
 
-### Subtile
-- [Name](#Link)
-- [Name](#Link)
 
 ---
 # Notes
