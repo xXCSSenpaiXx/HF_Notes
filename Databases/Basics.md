@@ -30,4 +30,5 @@
 ## 01.09
 - **Skripts**
 - [Create DB](Create_DB.sql)
-- [Import Data](Create_script.sql)
+- [Import Data](Import_Data.sql)
+- [Noramlize](Normalize.sql)
