@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS wineshop_db;
+
+CREATE DATABASE wineshop_db;
