@@ -29,5 +29,5 @@
 
 ## 01.09
 - **Skripts**
-- [Create](Create_script.sql)
-- [Create](../Create_script.sql)
+- [Create DB](Create_DB.sql)
+- [Import Data](Create_script.sql)
