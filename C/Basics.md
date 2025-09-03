@@ -21,6 +21,26 @@ int main()
 }
 ```
 
+## Linking Functions
+```
+#include <stdio.h>
+
+int func(int i);            // List all used functions
+
+
+int main() {
+    int a = 10;
+    int i = func(a);        // Give value into a function, then safe it to i
+    printf("%d\n", a);
+    printf("%d\n", i);
+}
+
+int func(int i) {           // Define function
+    i += 5;
+    return i;
+}
+```
+
 # Datatypes
 | Type                    | Example                        | Bytes                          | Format Specifier         |
 |-------------------------|--------------------------------|--------------------------------|--------------------------|
