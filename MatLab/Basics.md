@@ -23,6 +23,9 @@
 - **result lenght**
     - format long
     - format short
+- **whos**
+    - show size and class of a variable
+    - whos x
 
 ## Files
 - **save**
@@ -33,6 +36,10 @@
     - load .mat file
     - load filename
     - load filename variable - only load defined variable
+- **readtable**
+    - readtable(file)
+- **Import-Tool**
+    - "Import Data" in Menuleiste
 
 
 ## Math Functions

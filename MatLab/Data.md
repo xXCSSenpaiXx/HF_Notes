@@ -5,10 +5,11 @@
 - [Indexing](#Indexing)
 
 ## Types / Array
-### Scalar
+### Scalar / String
 Code:
 ```
     x = 2
+    y = "abc"
 ```
 Example:
 | 2        |
@@ -21,6 +22,15 @@ Code:
 ```
 Example:
 | 2        | -9         | 5                    |
+|--------------|---------------|--------------------------|
+
+### Char
+Code:
+```
+    x = 'abc' 
+```
+Example:
+| a        | b         | c                    |
 |--------------|---------------|--------------------------|
 
 ### Column Vector
@@ -86,3 +96,8 @@ Example:
 - **Extract Row**
     - Extract a row of a table
         - x = table_name(3,:)
+- **rmmissing**
+    - remove Row with missing data
+- **sortrow**
+    - Sort rows of a  table
+    - sortrow(Table, column, direction)

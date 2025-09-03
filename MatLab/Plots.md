@@ -16,7 +16,7 @@
     - Format plot lines & markers
         - plot(x,y "r--*", LineWidth=3)
         - [Documentation](https://ch.mathworks.com/help/matlab/ref/matlab.graphics.chart.primitive.line-properties.html)
-        - [Plot Library](https://ch.mathworks.com/products/matlab/plot-gallery.html#contour-plots)
+        - [Plot Library](https://ch.mathworks.com/products/matlab/plot-gallery.html)
 - **hold**
     - Overlay multiple plots
         - plot(x1,y1) (create first plot)
@@ -35,3 +35,9 @@
 - **legend**
     - Create legend for data points
         - legend("Exp A", "Exp B")
+
+## Plots 2 know
+    - plot(x,y)
+    - scatter(x,y)
+    - boxplot(x)   
+    - histogram(x)
