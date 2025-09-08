@@ -42,3 +42,7 @@
     - [Create DB with dependencies](create_shop_db.sql)
     - [Insert with dependencies](insert_dependecies.sql)
     - [Create Store Procedure](insert_procedure.sql)
+- **Index**
+    - Create an INDEX
+    - What is a INDEX used for
+    - PP anschauen
