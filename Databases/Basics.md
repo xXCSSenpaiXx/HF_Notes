@@ -51,3 +51,6 @@
     - in this file: [Create DB with dependencies](create_shop_db.sql)
     - in PQL Admin sichtbar
     - SELECT * FROM view;
+- **Explain**
+    - Show Costs of a SQL Command
+    - EXPLAIN SELECT * FROM view;
