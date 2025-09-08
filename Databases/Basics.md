@@ -32,3 +32,13 @@
 - [Create DB](Create_DB.sql)
 - [Import Data](Import_Data.sql)
 - [Noramlize](Normalize.sql)
+
+
+## 08.09
+- **Prüfung**
+    - 29.09
+    - https://gitlab.com/GIBZ/teaching/hfie/im_d1
+- **Skripts**
+    - [Create DB with dependencies](create_shop_db.sql)
+    - [Insert with dependencies](insert_dependecies.sql)
+    - [Create Store Procedure](insert_procedure.sql)
