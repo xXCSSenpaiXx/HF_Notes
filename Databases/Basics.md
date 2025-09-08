@@ -45,4 +45,9 @@
 - **Index**
     - Create an INDEX
     - What is a INDEX used for
-    - PP anschauen
+    - PowerPoint anschauen
+- **View**
+    - Create an VIEW
+    - in this file: [Create DB with dependencies](create_shop_db.sql)
+    - in PQL Admin sichtbar
+    - SELECT * FROM view;
