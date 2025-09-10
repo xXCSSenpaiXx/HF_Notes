@@ -87,15 +87,25 @@ Example:
 
 ## Tables
 
+- **Create**
+    - Create from columns
+        - x = table(a, b)
+    - Create from rows (arrays)
+        - x = array2table(a)
 - **Extract Column**
     - Extract a column of a table
         - x = table_name.column_name
+    - Extract a value by idx
+        - x = table_name.column_name(rowIDX)
 - **Insert Column**
     - Insert a column of a table
         - table_name.column_name = x
 - **Extract Row**
     - Extract a row of a table
         - x = table_name(3,:)
+- **Max Value**
+    - Save max Value and Idx
+        - [maxDataPoints,maxIdx] = max(WeatherDataFixed_station.GroupCount)
 - **rmmissing**
     - remove Row with missing data
 - **sortrow**
