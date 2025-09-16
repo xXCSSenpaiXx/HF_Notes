@@ -83,17 +83,13 @@ Example:
     - Index the second to last value
         - x(end-1) -> Indexing
         - 4 -> Anwser
-## Comparisons
-- **<**
-    - Smaller than
-- **>**
-    - Bigger than
-- **==**
-    - Equale to
-- **~=**
-    - Not equale to
+## Comparisons    
+| <        | >         | ==                    |  ~=       |
+|--------------|---------------|-------------------|-----|
+| Smaller than    | Bigger than | Equale to       | Not equale to |
+
  
-- **Scalar**
+### Scalar
 ```
   x = 3 < 4
   x = 1
