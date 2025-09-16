@@ -84,13 +84,22 @@ Example:
         - x(end-1) -> Indexing
         - 4 -> Anwser
 ## Comparisons
-
-- **< > == ~=**
-    - x = 3 < 4
-        - x = 1
-    - y = 1 == 2
-        - y = 0 
-
+- **<**
+    - Smaller than
+- **>**
+    - Bigger than
+- **==**
+    - Equale to
+- **~=**
+    - Not equale to
+ 
+- **Scalar**
+```
+  x = 3 < 4
+  x = 1
+  y = 1 == 2
+  y = 0 
+```
 
 ## Tables
 
