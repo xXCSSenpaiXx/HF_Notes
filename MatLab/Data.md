@@ -83,6 +83,13 @@ Example:
     - Index the second to last value
         - x(end-1) -> Indexing
         - 4 -> Anwser
+## Comparisons
+
+- **< > == ~=**
+    - x = 3 < 4
+        - x = 1
+    - y = 1 == 2
+        - y = 0 
 
 
 ## Tables
