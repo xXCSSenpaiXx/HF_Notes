@@ -84,7 +84,7 @@ Example:
         - x(end-1) -> Indexing
         - 4 -> Anwser
 ## Comparisons    
-| <            | >           | ==          |  ~=           |  &  |  b |
+| <            | >           | ==          |  ~=           |  &  | \| |
 |--------------|-------------|-------------|---------------|-----|----|
 | Smaller than | Bigger than | Equale to   | Not equale to | AND | OR |
 
