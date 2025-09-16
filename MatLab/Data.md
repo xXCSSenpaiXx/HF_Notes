@@ -84,9 +84,9 @@ Example:
         - x(end-1) -> Indexing
         - 4 -> Anwser
 ## Comparisons    
-| <        | >         | ==                    |  ~=       |
-|--------------|---------------|-------------------|-----|
-| Smaller than    | Bigger than | Equale to       | Not equale to |
+| <            | >           | ==          |  ~=           |  &  |  | |
+|--------------|-------------|-------------|---------------|-----|----|
+| Smaller than | Bigger than | Equale to   | Not equale to | AND | OR |
 
  
 ### Scalar
@@ -102,6 +102,13 @@ Example:
     vec = (1:3)
     y = vec > 1
     y = 0 1 1
+```
+
+### Indexing
+```
+    vec = (1:5)
+    z = vec(vec<4)
+    z = 1 2 3
 ```
 
 ## Tables
