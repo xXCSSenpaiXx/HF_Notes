@@ -91,10 +91,17 @@ Example:
  
 ### Scalar
 ```
-  x = 3 < 4
-  x = 1
-  y = 1 == 2
-  y = 0 
+    x = 3 < 4
+    x = 1
+    y = 1 == 2
+    y = 0 
+```
+
+### Vector
+```
+    vec = (1:3)
+    y = vec > 1
+    y = 0 1 1
 ```
 
 ## Tables
