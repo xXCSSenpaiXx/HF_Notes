@@ -111,6 +111,13 @@ Example:
     z = 1 2 3
 ```
 
+### AND / OR
+```
+    vec = (1:20)
+    x = vec(vec>10 & vec<14)
+    x= 11 12 13
+```
+
 ## Tables
 
 - **Create**
