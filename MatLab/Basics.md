@@ -116,3 +116,8 @@
         - isscalar(x)
 
 
+## Mengenlehre
+- **union**
+    - Werte zwei tabelen kombinieren
+    - Gleiche werte werde nur einmal übernommen
+        - union(a,b)
