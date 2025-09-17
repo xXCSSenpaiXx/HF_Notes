@@ -115,6 +115,17 @@
         - ismatrix(x)
         - isscalar(x)
 
+- **groupsummary**
+    - Sort Rows by Median/Mean by Groups
+```
+tabelle = groupsummary(Data_table, ...
+    ["station", "year"], ...        % Nachwelchen Werten gefiltert werden soll
+    ["mean", "median"], ...         % Welche Durchschnittsmethode verwendet wird
+    ["tmin", "tmax", "rain","sun"]) % Welche Werte ausgelesen werden
+```
+
+
+---
 
 ## Mengenlehre
 - **union**
