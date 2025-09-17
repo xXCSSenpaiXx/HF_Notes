@@ -121,3 +121,38 @@
     - Werte zwei tabelen kombinieren
     - Gleiche werte werde nur einmal übernommen
         - union(a,b)
+```
+    x = [1 2 3]
+    y = [3 4 5]
+    a = union(x,y)
+    a = [1 2 3 4 5]
+```
+- **intersect**
+    - Gleiche werte aus Tabellen auslesen
+        - union(a,b)
+```
+    x = [1 2 8]
+    y = [9 2 5]
+    a = intersect(x,y)
+    a = 2
+```
+
+- **setdiff**
+    - Werte aus tabelle B von tabelle A abziehen
+        - setdiff(a,b)
+```
+    x = [1 2 3]
+    y = [2 3]
+    a = setdiff(x,y)
+    a = 1
+```
+
+- **ismember**
+    - Logical Array für alle A werte in B
+        - ismember(a,b)
+```
+    x = [1 2 3]
+    y = [3 2 3]
+    a = ismember(x,y)
+    a = 0 1 1
+```
