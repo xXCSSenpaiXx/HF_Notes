@@ -36,3 +36,12 @@
     - By Refrence
         - Referenziert die adresse der variabel
         - &variable -> & als Deklaration
+
+## 17.09
+- **Datentypen**
+    - Arays
+        - int intArray[100];
+        - float array[] = {5, 1.3, 1, 4, 5.4};
+    - Array Pointers
+        - int intArray[0];
+        - int intArray[0,3];

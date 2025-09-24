@@ -1,4 +1,4 @@
--- psql -h aws-0-eu-central-2.pooler.supabase.com -U postgres.vceberzqpcutgbhcwvaq -p 6543 -d postgres -f ./create_shop_db.sql
+-- psql -h aws-1-us-east-2.pooler.supabase.com -U postgres.xqwoyqlcjfvyfnjxvxmq -p 6543 -d postgres -f ./create_shop_db.sql
 
 -- chcp 65001
 
